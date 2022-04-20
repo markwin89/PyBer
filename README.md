@@ -11,48 +11,48 @@ Analyzing fares, total rides, and drivers within the type of city categories.  C
 
 ### City
 
--Total Rides
+- Total Rides
   - Reached at 1625
--Total Drivers
+- Total Drivers
   - Reached at 2405
--Total Fares
+- Total Fares
   - Reached at $39854.38
--Average Fare Per Ride and Driver
+- Average Fare Per Ride and Driver
   - Reached at $24.53
--Average Fare Per Driver
+- Average Fare Per Driver
   - Reached at $16.57 
--Total Fare by City Type
+- Total Fare by City Type
   -The top of the 3 in total fares over the first 4 months of 2019. 
 
 ### Suburban
 
--Total Rides
+- Total Rides
   - Reached at 625
--Total Drivers
+- Total Drivers
   - Reached at 490
--Total Fares
+- Total Fares
   - Reached at $19356.33
--Average Fare Per Ride
+- Average Fare Per Ride
   - Reached at $30.97
--Average Fare Per Driver
+- Average Fare Per Driver
   - Reached at $39.50 
--Total Fare by City Type
-  -Middle ground of total fares over the first 4 months of 2019
+- Total Fare by City Type
+  - Middle ground of total fares over the first 4 months of 2019
 
 ### Rural
 
--Total Rides
+- Total Rides
   - Reached at 125
--Total Drivers
+- Total Drivers
   - Reached at 78
--Total Fares
+- Total Fares
   - Reached at $4327.93
--Average Fare Per Ride
+- Average Fare Per Ride
   - Reached at 34.62
--Average Fare Per Driver
+- Average Fare Per Driver
   - Reached at $55.49 
--Total Fare by City Type
-  -Lowest of the 3 for total fare collected over the first 4 months of 2019. 
+- Total Fare by City Type
+  - Lowest of the 3 for total fare collected over the first 4 months of 2019. 
 
 ---
 ## Summary
